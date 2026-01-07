@@ -1,0 +1,2 @@
+# Battery-Size-Optimization-for-Battery-Electric-Buses-in-urban-Public-Transport
+This repository presents a reproducible framework for optimal battery sizing of battery electric buses. The framework integrates route-level profiling, clustering, and optimization using real-world urban public transport data. The provided code supports reproduction and independent verification of the main results reported in the study.
