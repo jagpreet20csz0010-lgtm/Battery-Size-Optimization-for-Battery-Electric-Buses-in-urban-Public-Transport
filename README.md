@@ -38,5 +38,20 @@ Battery size optimization is performed using the following Python scripts:
 - **`Battery-Size-Optimization-SP-100-150-Power-levels.py`**  
   Implements a stochastic programming (SP)–based optimization model to account for
   uncertainty in operational conditions while optimizing battery size.
+## 3. Software Requirements
+
+The Python implementation requires the following software and libraries:
+
+- **Python** 3.8 or later  
+- **pandas** – Data manipulation and preprocessing  
+- **numpy** – Numerical computations  
+- **matplotlib** – Data visualization and plotting  
+- **seaborn** – Statistical data visualization  
+- **PuLP** – Linear and stochastic programming–based optimization  
+
+All required Python dependencies can be installed using:
+
+```bash
+pip install pandas numpy matplotlib seaborn pulp
 
 
